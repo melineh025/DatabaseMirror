@@ -1,4 +1,4 @@
-# PandaExpress - Document Store Senior Project
+#  Document Store Senior Project
 This CLI program allows users to perform processing on JSON documents.
 Key Features Include:
 1) Create Read Update Delete( CRUD) functions for .json files
